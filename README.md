@@ -1,2 +1,2 @@
 # videotutorial
-this is a repository for video tutorial
+test videotutorial is a repository for test purpose
